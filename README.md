@@ -1,2 +1,3 @@
 # First-Rep
-For testing
+Hello!
+Just try doing it better.
